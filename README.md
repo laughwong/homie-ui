@@ -1,2 +1,2 @@
 # homie-ui
-A UI for homie
+An UI for homie
