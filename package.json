@@ -1,0 +1,13 @@
+{
+  "name": "homie-ui",
+  "version": "1.0.0",
+  "description": "An UI for homie",
+  "main": "index.js",
+  "repository": "git@github.com:laughwong/homie-ui.git",
+  "author": "halo <wlphp201303@163.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "vue": "^2.6.14"
+  }
+}
